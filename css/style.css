@@ -577,7 +577,7 @@ display: inline-block;
 /*myrefunds start -----------*/
 #my-refunds{
     background-image: linear-gradient(to right, #40BFB5, #40AE71);
-    padding: 60px 0;
+    padding: 100px 0;
 }
 .tab-div{
     padding:30px;
